@@ -1,0 +1,29 @@
+ {
+  "earth": {
+    "name": "Earth",
+    "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor and support life. It has a single natural satellite, the Moon.",
+    "image": "mercury.jpg"
+  },
+  "mars": {
+    "name": "Mars",
+    "description": "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System. It is often called the 'Red Planet' because of its reddish appearance."
+  },
+  "jupiter": {
+    "name": "Jupiter",
+    "description": "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass one-thousandth that of the Sun.",
+    "image": "jupiter.png"
+  },
+  "saturn": {
+    "name": "Saturn",
+    "description": "Saturn is the sixth planet from the Sun and the second-largest in the Solar System. It is a gas giant with an average radius about nine times that of Earth."
+  },
+  "moon": {
+    "name": "Moon",
+    "description": "The Moon is Earth's only natural satellite. It is the fifth largest moon in the Solar System and the largest among planetary satellites relative to the size of the planet it orbits."
+  },
+  "elliptical": {
+    "name": "Elliptical Galaxy",
+    "description": "An elliptical galaxy is a type of galaxy having an approximately ellipsoidal shape and a smooth, nearly featureless image. Unlike flat spiral galaxies with organization and structure, elliptical galaxies are more three-dimensional, without much structure, and their stars are in somewhat random orbits around the center.",
+    "image": "elliptical.jpg"
+  }
+}
